@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.usuario.pvt.HomeActivity"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:fitsSystemWindows="true"
+        android:gravity="top|center"
+        android:weightSum="7">
+
+
+        <TextView
+            android:text="@string/titulo"
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:id="@+id/Title"
+            android:textColor="#ffffff"
+            android:background="@drawable/titlesquare"
+            android:layout_margin="15dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:textSize="24sp"
+            android:paddingLeft="15dp"
+         android:paddingRight="15dp"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:clickable="false"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/participant_number"
+            android:layout_height="0dp"
+            android:inputType="number"
+            android:background="#ffffff"
+            android:hint="@string/pista"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp" />
+
+        <Button android:id="@+id/test_1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="@string/test1"
+            android:textColor="#ffffff"
+            android:background="@drawable/mybutton"
+            android:layout_margin="15dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textAllCaps="false" />
+
+        <Button android:id="@+id/test_2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="@string/test2"
+            android:textColor="#ffffff"
+            android:background="@drawable/mybutton"
+            android:layout_margin="15dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textAllCaps="false" />
+
+
+        <Button android:id="@+id/test_3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="@string/test3"
+            android:textColor="#ffffff"
+            android:background="@drawable/mybutton"
+            android:layout_margin="15dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1"
+            android:layout_marginEnd="30dp"
+            android:layout_marginRight="30dp"
+            android:textSize="20sp"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_gravity="center|bottom"
+            android:layout_height="0dp"
+            android:text="@string/creativecommonslicense"
+            android:textColor="#ffffff"
+            android:gravity="bottom|center"
+            android:layout_weight="2"/>
+
+    </LinearLayout>
+</FrameLayout>
+
+

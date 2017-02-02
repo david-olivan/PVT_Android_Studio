@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PVT</string>
+    <string name="titulo">Estudio HCULB</string>
+    <string name="pista">Tu número de participante</string>
+    <string name="test1">Hacer Test 1</string>
+    <string name="test2">Hacer Test 2</string>
+    <string name="test3">Hacer Test 3</string>
+    <string name="creativecommonslicense">CC Andrés Ros Magallón 2017</string>
+
+    <string name="tituloencuesta">Encuesta: 5 preguntas</string>
+    <string name="pregunta1">Aqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera preguntaAqui va la primera pregunta</string>
+    <string name="pregunta2">Aqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda preguntaAqui va la segunda pregunta</string>
+    <string name="pregunta3">Aqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera preguntaAqui va la tercera pregunta</string>
+    <string name="pregunta4">Aqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta preguntaAqui va la cuarta pregunta</string>
+    <string name="pregunta5">Aquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta preguntaAquí va la quinta pregunta</string>
+    <string name="pistaencuesta">nº</string>
+    <string name="aviso">¡Recuerda contestar todas las preguntas antes de continuar!</string>
+    <string name="botoncontinuar">Continuar con el PVT</string>
+
+    <string name="checkeredpanel">Una rejilla de cuadros blancos y negros</string>
+
+    <string name="ultimo">Gracias por realizar el test</string>
+    <string name="despedida">Al pulsar el boton \"Enviar resultados\", se abrirá tu correo para que los mandes. \n\nSi era el primer test del día, dos alarmas (24:00 y 8:00) se activarán cuando pulses el botón.\n\nTrata de hacer los otros dos tan pronto como tengas 5 minutos libres tras sonar la alarma.\n\n. Puedes solicitar tus resultados mediante un email a \"a.ros.magallon@gmail.com\". </string>
+    <string name="send_mail">Enviar resultados</string>
+    <string name="endbutton">Finalizar Test</string>
+</resources>
